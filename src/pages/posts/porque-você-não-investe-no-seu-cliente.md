@@ -16,7 +16,7 @@ menus:
   main:
     title: Porque você não investe no seu cliente
     identifier: Home
-    weight: 0
+    weight: -1
 template: post
 ---
 ## Porque você não investe no seu cliente?
