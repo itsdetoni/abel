@@ -5,7 +5,13 @@ date: "2019-04-09"
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
 excerpt: Então você se pergunta, como vou investir dinheiro numa campanha que
-  irá trazer pessoas para um local onde irão encontrar um profundo vazio?
+  irá trazer pessoas para um local onde irão encontrar um profundo
+  vazio?Começamos a perceber o quão complicado é criar campanhas de relevância
+  com uma série de problemas que precedem o investimento em mídia e ok, o que
+  fazemos normalmente é relatar a questão. Podemos definir alguns passos para
+  resolver esses pontos, mas meus amigos, a coisa não é tão simples. Você vai
+  precisar continuar investindo dinheiro para aquele produto independentemente
+  de quando ou se aqueles problemas forem resolvidos.
 template: post
 ---
 
