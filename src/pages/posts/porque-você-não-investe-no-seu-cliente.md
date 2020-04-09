@@ -1,6 +1,6 @@
 ---
 title: Porque você não investe no seu cliente?
-subtitle: Não leia se você não tem estômago para verdades.
+subtitle: ""
 date: "2020-04-08T03:00:00.000Z"
 thumb_img_path: /images/1.jpg
 content_img_path: /images/1.jpg
