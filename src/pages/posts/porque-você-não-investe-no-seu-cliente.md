@@ -14,9 +14,9 @@ excerpt: Então você se pergunta, como vou investir dinheiro numa campanha que
   ou se aqueles problemas forem resolvidos.
 menus:
   main:
-    title: Porque você não investe no seu cliente
-    identifier: Home
-    weight: -1
+    title: ""
+    identifier: ""
+    weight: ""
 template: post
 ---
 ## Porque você não investe no seu cliente?
