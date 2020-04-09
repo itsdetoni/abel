@@ -1,35 +1,41 @@
 ---
-title: Basic Rules For Walking In The Mountains
-date: '2019-04-09'
+title: Por você não investe no seu cliente
+subtitle: Não leia se você não tem estômago para verdades.
+date: "2019-04-09"
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+excerpt: Então você se pergunta, como vou investir dinheiro numa campanha que
+  irá trazer pessoas para um local onde irão encontrar um profundo vazio?
 template: post
 ---
 
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
 
-Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
+## Porque você não investe no seu cliente?
 
-## Long Distance Hiking
+Para você que é aquele cara de mídia habituado a investir milhares de reais ou dólares em captação de tráfego para dentro de um site e não vê seus resultados simplesmente decolando você se pergunta, será que ROAS 2 é bom? Será que tem algo de errado com eu estar fazendo ROAS 2 em campanhas que não tem nada a ver com a palavra-chave (+nome da marca).
 
-Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in England and Wales, the National Trail System in the USA and The Grande Randonnée (France), Grote Routepaden, or Lange-afstand-wandelpaden (Holland), Grande Rota (Portugal), Gran Recorrido (Spain) is a network of long-distance footpaths in Europe, mostly in France, Belgium, the Netherlands and Spain. There are extensive networks in other European countries of long distance trails, as well as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
+Imaginando o cenário que suas campanhas no Google atinjam um ROAS 10, mas se for descontar o resultado que se origina do branding da marca, seu roas é 2 ou 1, você se pergunta se isso que você está fazendo é benéfico ou é só rasgação de dinheiro. Ora, não se preocupe, afinal de contas todo mundo faz isso e NINGUÉM liga.
 
-In the late 20th-century there has been a proliferation of official and unofficial long distance routes, which mean that hikers now are more likely to refer to using a long distance way (Britain), trail (USA), The Grande Randonnée (France), etc., than setting out on a walking tour. Early examples of long distance paths, include the Appalachian Trail in the USA and the Pennine Way in Britain. Pilgrimage routes are now treated, by some walkers, as long distance routes, and the route taken by the British National Trail the North Downs Way closely follows that of the Pilgrims' Way to Canterbury. Hiking times can be estimated by Naismith's rule or Tobler's hiking function.
+## Sem olhos?
 
-## Equipment
+Até hoje não consegui entender porque o mercado não consegue admitir que está falhando em olhar para dentro de casa e olhar para o seu próprio consumidor e vive querendo encontrar mágicos resultados com mídia paga sendo que o verdadeiro ouro está em outra área de investimento.
 
-The equipment required for hiking depends on the length of the hike, but day hikers generally carry at least water, food, a map, and rain-proof gear. Hikers usually wear sturdy hiking boots for mountain walking and backpacking, as protection from the rough terrain, as well as providing increased stability. The Mountaineers club recommends a list of "Ten Essentials" equipment for hiking, including a compass, sunglasses, sunscreen, a flashlight, a first aid kit, a fire starter, and a knife. Other groups recommend items such as hat, gloves, insect repellent, and an emergency blanket. A GPS navigation device can also be helpful and route cards may be used as a guide.
 
-> Returning home is the most difficult part of long-distance hiking; You have grown outside the puzzle and your piece no longer fits. ― Cindy Ross
 
-Proponents of ultralight backpacking argue that long lists of required items for multi-day hikes increases pack weight, and hence fatigue and the chance of injury. Instead, they recommend reducing pack weight, in order to make hiking long distances easier. Even the use of hiking boots on long-distances hikes is controversial among ultralight hikers, because of their weight.
+## Seu cliente é tudo e você não olha para ele
 
-## Environmental Impact
+Todos os dias você chega na empresa ou liga seu computador em casa para programar suas campanhas de mídia e precisa planejar qual produto, ou quais produtos, você irá trabalhar o tráfego e já logo cedo se depara com aqueles incômodos problemas na página de produto ou na categoria, ou valor do frete, ou mesmo no próprio produto que por sua vez não foi trabalhado para o cliente. Então você se pergunta, como vou investir dinheiro numa campanha que irá trazer pessoas para um local onde irão encontrar um profundo vazio?
 
-Natural environments are often fragile, and may be accidentally damaged, especially when a large number of hikers are involved. For example, years of gathering wood can strip an alpine area of valuable nutrients. and some species, such as martens or bighorn sheep, are very sensitive to the presence of humans, especially around mating season. Generally, protected areas such as parks have regulations in place to protect the environment, so as to minimize such impact. Such regulations include banning wood fires, restricting camping to established camp sites, disposing or packing out faecal matter, and imposing a quota on the number of hikers. Many hikers espouse the philosophy of Leave No Trace, following strict practices on dealing with food waste, food packaging, and other impact on the environment.
 
-Human waste is often a major source of environmental impact from hiking, and can contaminate the watershed and make other hikers ill. 'Catholes' dug 10 to 25 cm (4 to 10 inches) deep, depending on local soil composition and covered after use, at least 60 m (200 feet) away from water sources and trails, are recommended to reduce the risk of bacterial contamination. [Source](https://en.wikipedia.org/wiki/Hiking)
+
+##  Se queimar faz parte?
+
+Começamos a perceber o quão complicado é criar campanhas de relevância com uma série de problemas que precedem o investimento em mídia e ok, o que fazemos normalmente é relatar a questão. Podemos definir alguns passos para resolver esses pontos, mas meus amigos, a coisa não é tão simples. Você vai precisar continuar investindo dinheiro para aquele produto independentemente de quando ou se aqueles problemas forem resolvidos. Pois é, assim age a maioria esmagadora do mercado, é como se você tivesse que pegar com as mãos nuas barras de ferro dentro de uma fogueira e ao relatar para seus superiores sobre a fogueira eles iriam dizer, vamos continuar pegando essas barras de ferro enquanto não podemos apagar esse fogo. Isso parece estranho e soa como deboche, mas é o que acontece.
+
+
+
+Poucos foram os momentos onde me deparei com a oportunidade de realmente poder apagar essa fogueira e produzir um trabalho descente sem ter que me queimar, claro isso só é possível depois que você se queima demais.
+
+
+
+Muitas vezes, os rios de dinheiro empregados em mídia que te mandam para lugar algum, teriam serventia superior se fossem investidos em pesquisa e testes com o público alvo. Simplesmente isso evitaria tantos problemas além de mostrar que isso acaba catapultando algumas empresas para um sucesso meteórico que a maioria não é capaz de enxergar, elas apenas olharam para o cliente e para os seus problemas com mais foco e investimento.
