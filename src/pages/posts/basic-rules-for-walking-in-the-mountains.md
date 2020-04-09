@@ -1,5 +1,5 @@
 ---
-title: Por você não investe no seu cliente
+title: Porque você não investe no seu cliente
 subtitle: Não leia se você não tem estômago para verdades.
 date: "2019-04-09"
 thumb_img_path: images/1.jpg
