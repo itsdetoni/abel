@@ -16,7 +16,7 @@ menus:
   main:
     title: ""
     identifier: ""
-    weight: ""
+    weight: -1
 template: post
 ---
 ## Porque você não investe no seu cliente?
