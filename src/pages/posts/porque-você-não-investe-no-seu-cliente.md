@@ -21,7 +21,7 @@ template: post
 ---
 ## Porque você não investe no seu cliente?
 
-Para você que é aquele cara de mídia habituado a investir milhares de reais ou dólares em captação de tráfego para dentro de um site e não vê seus resultados simplesmente decolando você se pergunta, será que ROAS 2 é bom? Será que tem algo de errado com eu estar fazendo ROAS 2 em campanhas que não tem nada a ver com a palavra-chave (+nome da marca).
+Para você que é aquele cara de mídia habituado a investir milhares de reais ou dólares em captação de tráfego para dentro de um site e não vê seus resultados simplesmente decolando você se pergunta, será que ROAS 2 é bom? Será que tem algo de errado com eu estar fazendo ROAS 2 em campanhas que não tem nada a ver com a palavra-chave (+nome +marca)?
 
 Imaginando o cenário que suas campanhas no Google atinjam um ROAS 10, mas se for descontar o resultado que se origina do branding da marca, seu roas é 2 ou 1, você se pergunta se isso que você está fazendo é benéfico ou é só rasgação de dinheiro. Ora, não se preocupe, afinal de contas todo mundo faz isso e NINGUÉM liga.
 
