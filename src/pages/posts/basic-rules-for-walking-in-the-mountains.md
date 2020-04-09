@@ -12,6 +12,9 @@ excerpt: Então você se pergunta, como vou investir dinheiro numa campanha que
   esses pontos, mas meus amigos, a coisa não é tão simples. Você vai precisar
   continuar investindo dinheiro para aquele produto independentemente de quando
   ou se aqueles problemas forem resolvidos.
+menus:
+  main:
+    title: Porque você não investe no seu cliente
 template: post
 ---
 ## Porque você não investe no seu cliente?
