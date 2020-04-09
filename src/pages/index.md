@@ -5,11 +5,9 @@ sections:
     title: Intro
     section_id: intro
     component: Intro
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: Este ambiente terá o propósito de criar discussão, bate boca, dores de
+      barriga e resolver PROBLEMAS. Se você gosta de ficar na zona de conforto
+      100% do seu tempo não ouse comentar.
     actions:
       - label: Learn More
         url: /about
